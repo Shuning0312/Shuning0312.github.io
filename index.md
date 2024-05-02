@@ -19,10 +19,10 @@ I am a M.S. student at Hangzhou Institute for Advanced Study, UCAS. Nice to meet
 
 ## Education
 - [**2023.09 - Present**] **M.S.**
- _Computer Technology，Hangzhou Institute for Advanced Study, UCAS_
+Computer Technology, Hangzhou Institute for Advanced Study, UCAS
   - Main Course: Computer Network
 - [**2019.09 - 2023.06**] **B.E.**
- _Mathematics and Applied Mathematics, Shenyang University of Technology_
+Mathematics and Applied Mathematics, Shenyang University of Technology
   - Main Course: Mathematical Analysis, Advanced Algebra, Operations Research and Optimization, Theory of Complex Variables, Abstract Algebra, Topology, Differential Geometry, Numerical Analysis
   
 ## Project
