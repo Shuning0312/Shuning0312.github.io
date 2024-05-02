@@ -12,7 +12,7 @@ I am a M.S. student at Hangzhou Institute for Advanced Study, UCAS. Nice to meet
 - **AI:**Game Theory, Game Theory Algorithms[Q-Learning...], Reinforcement Learning
 
 ## Current work
-- **Blockchain Development Intern：** Project Management and Standardization Department, Hangzhou Qulian Technology Co., Ltd. 
+- **Blockchain Development Intern:** Project Management and Standardization Department, Hangzhou Qulian Technology Co., Ltd. 
 
 ## News
 - **[Apri. 2024]** Our manuscript _DataR2E Research and Prospects on the Value Release of Data Elements in Web 3.0_ is in submission.
