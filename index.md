@@ -4,23 +4,32 @@ layout: homepage
 
 ## About Me
 
-I am a M.S. student at Hangzhou Institute for Advanced Study, UCAS. Nice to meet you! This is my brief cv.
+I am a M.S. student at Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences. Nice to meet you! This is my brief cv.
 
 ## Research Interests
-- **Blockchain:** Web 3.0, Smart Contract, Federated learning
-- **Data Element:** Data element market construction
-- **AI:**Game Theory, Game Theory Algorithms[Q-Learning...], Reinforcement Learning
+- **Blockchain:** Web 3.0, Consensus Algorithm, Data Element Market Construction, Privacy protection, Homomorphic encryption
+- **AI:** Game Theory, Game Theory Algorithms[Q-Learning...], Reinforcement Learning
 
 ## Current work
 - **Blockchain Development Intern:** Project Management and Standardization Department, Hangzhou Qulian Technology Co., Ltd. 
 
 ## News
-- **[Apri. 2024]** Our manuscript _DataR2E Research and Prospects on the Value Release of Data Elements in Web 3.0_ is in submission.
+- **Apri. 2024** [The first author] **IEEE Global Blockchain Conference** Our manuscript _DataR2E Research and Prospects on the Value Release of Data Elements in Web 3.0_ is in submission.
+  - **Article Summary**: In traditional data element circulation models, the sharing and exchange of multi-source heterogeneous data are disconnected from the flow and release of data element value. This leads to issues such as poor data reusability, unclear data demand, a small market scale, and short life cycles for data elements and data markets. To address these problems, a universal reference model called DataR2E was designed to be used throughout the value release process of the entire data element market.
+  - **Research Outcomes**: The DataR2E model introduces the concept of bounty production for data elements and leverages Web3 technology and data production tools to encourage sellers to actively provide data elements needed by buyers. By building a bridge between buyers and sellers through data production tools, the model promotes the sustainable development of the data element market, resolving issues such as the existence of a market without pricing and pricing without market presence, thereby maximizing the potential for the value release of data elements.
+
+- **May. 2024** [The second author] **The 30th International Conference on Computational & Experimental Engineering and Sciences** Our manuscript _A Method for Verifying Blockchain Transaction Amounts Based on Digital Signatures_ has been accepted.
+  - **Article Summary**: By leveraging homomorphic encryption and digital signature technology, this paper proposes using the Paillier algorithm for validating transaction amounts on the blockchain. This approach protects the privacy of the transaction parties and allows for updating the balances of the transaction parties while keeping the data encrypted.
+  - **Research Outcomes**: The paper proposes a blockchain transaction amount validation method based on the Paillier digital signature algorithm to address the potential issue of transaction amount leakage in current blockchain systems. Security testing using the formal verification tool VerifPal demonstrates that the proposed method is resistant to related cryptographic attacks. Comparative experiments validate that the method significantly reduces computational and communication overhead, meeting performance expectations.
+
+- **Apri. 2022** [The first author] **2021 International Conference on Information Technology and Biomedical Engineering** _A Short-Term Wind Power Prediction Forecasting using Variational Modes Decomposition Based on Long-Short Term Memory._ 
+  - This research focuses on using artificial intelligence algorithms to conduct point forecasting of short-term wind power based on historical data. The aim is to develop a new ensemble model to reduce the probability of prediction results falling into local optima and to overcome the issues of gradient explosion and vanishing that are common in traditional prediction models, ultimately improving forecasting accuracy.
+  - A combined forecasting model that integrates Variational Mode Decomposition (VMD) and Long Short-Term Memory (LSTM) networks was established. Experiments were conducted using real historical data from the Pacific Wind Farm. By comparing the mean square error (MSE) and R-squared (R²) values of various forecasting models, it was confirmed that the ensemble model achieved a certain degree of improvement in prediction accuracy.
 
 ## Education
 - [**2023.09 - Present**] **M.S.**
 Computer Technology, Hangzhou Institute for Advanced Study, UCAS
-  - Main Course: Computer Network
+  - Main Course: Computer Network, Technical Foundations of Blockchain, Open Source Software Technology and Practice, Algorithm Design and Analysis, Parallel Computing and Implementation Technology
 - [**2019.09 - 2023.06**] **B.E.**
 Mathematics and Applied Mathematics, Shenyang University of Technology
   - Main Course: Mathematical Analysis, Advanced Algebra, Operations Research and Optimization, Theory of Complex Variables, Abstract Algebra, Topology, Differential Geometry, Numerical Analysis
