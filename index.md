@@ -11,14 +11,13 @@ This is my brief cv.
 
 ## Research Interests
 - **Blockchain:** Web 3.0, Consensus Algorithm, Data Element Market Construction, Privacy protection, Homomorphic encryption
-- **Theoretical Exploration:** Computer Science and Game Theory, Auction Theory, Game Theory Algorithms[Q-Learning...], Reinforcement Learning
+- **Theoretical Exploration:** Computer Science and Game Theory, Auction Theory, Game Theory Algorithms
 
 ## Current work
 - **Blockchain Development Intern:** Project Management and Standardization Department, Hangzhou Qulian Technology Co., Ltd. 
 
 ## News
 - **[Apri. 2024]** Our manuscript _DataR2E Research and Prospects on the Value Release of Data Elements in Web 3.0_ has been accepted.
-- **[May. 2024]** Our manuscript _A Method for Verifying Blockchain Transaction Amounts Based on Digital Signatures_ has been accepted.
 
 ## Education
 - [**2023.09 - Present**] **M.S.**
