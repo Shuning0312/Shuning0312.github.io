@@ -8,5 +8,3 @@ I'm Shuning Sun, a master's student at UCAS, passionate about crypto, computer v
 - 📫 How to reach me: [shuning007@outlook.com](mailto:shuning007@outlook.com)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuning0312&show_icons=true&theme=default)
