@@ -9,6 +9,8 @@ I'm Shuning Sun, a master's student at UCAS, passionate about crypto, computer v
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuning007&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuning007&layout=compact)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shuning007.shuning007)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shuning0312&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuning0312&layout=compact)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shuning0312.Shuning0312)
