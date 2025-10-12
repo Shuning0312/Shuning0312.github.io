@@ -1,0 +1,9 @@
+/* === Override avatar shape === */
+.image.avatar img {
+    border-radius: 0 !important;   /* 取消圆角 */
+    width: auto !important;        /* 保持原比例 */
+    height: auto !important;
+    max-width: 100% !important;
+    display: block;
+    margin: 0 auto;
+  }
