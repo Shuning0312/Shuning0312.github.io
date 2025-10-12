@@ -94,7 +94,7 @@ Sep. 2019 - Jun. 2023
 
 ---
 
-## Selected Publications · [Full List →](#)
+## Selected Publications · [<a href="https://scholar.google.com/citations?hl=zh-CN&user=rkxEcnAAAAAJ" target="_blank">Full List →</a>]
 
 ### Preprints
 

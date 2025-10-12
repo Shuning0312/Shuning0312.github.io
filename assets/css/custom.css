@@ -8,30 +8,31 @@
     margin: 0 auto;
   }
 
-  .honors {
-    margin-top: 1.2em;
-    margin-bottom: 2em;
-    padding-left: 0.5em;
-    border-left: 3px solid #999;       /* 左侧竖线装饰 */
-  }
-  
-  .honor-item {
-    margin-bottom: 0.6em;
-    line-height: 1.6;
-  }
-  
-  .honor-date {
-    font-weight: 600;
-    color: #444;
-    margin-right: 0.4em;
-    font-family: monospace;
-  }
-  
-  .honor-text {
-    color: #222;
-  }
-  
-  .honor-item:hover .honor-text {
-    color: #007acc;                    /* 鼠标悬停时高亮 */
-    transition: color 0.2s ease-in-out;
-  }
+/* === Honors & Awards Section === */
+.honors {
+  margin-top: 1.2em !important;
+  margin-bottom: 2em !important;
+  padding-left: 0.8em !important;
+  border-left: 3px solid #999 !important; /* 左侧竖线装饰 */
+}
+
+.honor-item {
+  margin-bottom: 0.6em !important;
+  line-height: 1.6 !important;
+}
+
+.honor-date {
+  font-weight: 600 !important;
+  color: #444 !important;
+  margin-right: 0.4em !important;
+  font-family: monospace !important;
+}
+
+.honor-text {
+  color: #222 !important;
+}
+
+.honor-item:hover .honor-text {
+  color: #007acc !important;
+  transition: color 0.2s ease-in-out !important;
+}
