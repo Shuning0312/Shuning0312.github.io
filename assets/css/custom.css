@@ -7,3 +7,31 @@
     display: block;
     margin: 0 auto;
   }
+
+  .honors {
+    margin-top: 1.2em;
+    margin-bottom: 2em;
+    padding-left: 0.5em;
+    border-left: 3px solid #999;       /* 左侧竖线装饰 */
+  }
+  
+  .honor-item {
+    margin-bottom: 0.6em;
+    line-height: 1.6;
+  }
+  
+  .honor-date {
+    font-weight: 600;
+    color: #444;
+    margin-right: 0.4em;
+    font-family: monospace;
+  }
+  
+  .honor-text {
+    color: #222;
+  }
+  
+  .honor-item:hover .honor-text {
+    color: #007acc;                    /* 鼠标悬停时高亮 */
+    transition: color 0.2s ease-in-out;
+  }

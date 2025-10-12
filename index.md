@@ -130,13 +130,25 @@ Sep. 2019 - Jun. 2023
 
 ---
 
-## Honors & Awards
+<h2>Honors & Awards</h2>
 
-| [04/2024] Web3.0 Innovation Competition — **RentChain**, Third Prize in Hong Kong Region. |
-| :---------------------------------------------------------------------------------------- |
-| [08/2021] China Computer Games Competition — **Connect Six AI**, National Second Prize.   |
-| [09/2021] Mathematical Contest in Modeling — Second Prize, Liaoning Province.             |
+<div class="honors">
+  <div class="honor-item">
+    <span class="honor-date">[04/2024]</span>
+    <span class="honor-text">Web3.0 Innovation Competition — RentChain, Third Prize in Hong Kong Region.</span>
+  </div>
 
----
+  <div class="honor-item">
+    <span class="honor-date">[08/2021]</span>
+    <span class="honor-text">China Computer Games Competition — Connect Six AI, National Second Prize.</span>
+  </div>
+
+  <div class="honor-item">
+    <span class="honor-date">[09/2021]</span>
+    <span class="honor-text">Mathematical Contest in Modeling — Second Prize, Liaoning Province.</span>
+  </div>
+</div>
+
+<hr>
 
 © Shuning Sun
