@@ -2,78 +2,58 @@
 layout: homepage
 ---
 
-## About Me  
----
-Nice to meet you!  
-I am a M.S. student at Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences. 
+## Biography
 
-## Research Interests 
----
-- **Blockchain:** Web 3.0, Consensus Algorithms, Data Element Market Construction, Privacy Protection, Homomorphic Encryption  
-- **Computer Vision:** Video Restoration, Flow Matching, Prompt Guidance  
-- **Theoretical Exploration:** Game Theory Algorithms, Auction Theory, Multi-Agent Systems  
+Hello! I am a M.S. student at Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences. I obtained my B.E. in Mathematics and Applied Mathematics at Shenyang University of Technology in 2023.
 
+My research interests lie in the intersection of **Computer Vision** and **AICG**. From 2023, I started to do research on image/video restoration. Now, I focus on designing novel applications for image/video restoration and AIGC tasks.
 
-## Education 
---- 
-- **2023.09 - Present** M.S. in Computer Technology  
-  *Hangzhou Institute for Advanced Study, UCAS*  
-  _Courses: Blockchain Technologies, Parallel Computing, Algorithm Design, Computer Networks_
+I am also passionate about crypto and Web3, having developed several innovative projects in this domain.
 
-- **2019.09 - 2023.06** B.E. in Mathematics and Applied Mathematics  
-  *Shenyang University of Technology*  
-  _Courses: Mathematical Analysis, Algebra, Optimization, Complex Variables, Topology_
+_📧 Feel free to contact me by email if you are interested in discussing or collaborating with me._
+
+## 🔥 News
+
+* [10/2025] One paper submitted to ICLR 2026!
+* [09/2025] Two papers submitted to AAAI 2026!
+* [07/2025] One paper accepted by ACM MM 2025!
 
 
-## Publications
----
+## Industrial Experience
 
-### ✍️ Submitted
-
-**_UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance_**  
-**Shuning Sun**, Yu Zhang, Chen Wu, et al.  
-**Submitted to CCF-A Conference 2025**  
-[arXiv:2504.09069](https://arxiv.org/abs/2504.09069)
-
-### ✅ Accepted
-
-**_DataR2E: Research and Prospects on the Value Release of Data Elements in Web 3.0_**  
-**Shuning Sun**, Xi Ran, et al.  
-**Accepted at IEEE Global Blockchain Conference 2024**
-
-### 📚 Published
-
-**_Method for Verifying Blockchain Transaction Amounts Based on Digital Signatures_**  
-Xiangjuan Jia, **Shuning Sun**, et al. (Second Author)  
-**Presented at ICCES 2023**
-
-**_A Short-Term Wind Power Prediction Forecasting using Variational Modes Decomposition Based on Long-Short Term Memory_**  
-**Shuning Sun**, Wei Zheng, Jingyao Zhang  
-**Presented at ICITBE 2021**
-
-## Competitions
----
-### 🏠 Featured Project: RentChain Web3 Housing Rental DApp
-
-RentChain is a trustworthy rental platform based on blockchain and privacy-preserving computation. It aims to transform the traditional rental experience through decentralization, smart contracts, and on-chain data integrity.
-
-**Key Features:**  
-- Transparent smart contract enforcement  
-- Zero-knowledge proof for private tenant data  
-- Streamlined rental lifecycle from posting to settlement  
-
-### ♟️ Featured Project: Einstein Chess AI
-
-[🔗 Einstein Chess AI GitHub Repository](https://github.com/Shuning0312/Einstein-Chess-AI-Gaming-Project)
-
-A C-language chess engine featuring Expectimax, Monte Carlo Tree Search, and Q-learning, integrated into a human-AI interface. This AI achieved a national prize in algorithmic game competitions.
+| <img src="assets/img/Vivo.svg" width="100"> | **VIVO**<br/>Sep. 2025 - Present<br/>**VIVO Imaging Algorithm Research Center**, Hangzhou, China<br/>_Topic: Light and Shadow Portrait Large Model Algorithm Research_ |
+| :---: | :--- |
+| <img src="assets/img/hyperchain.png" width="100"> | **Hyperchain**<br/>Aug. 2023 - Sep. 2025<br/>**Hyperchain Technology Co., Ltd.**, Hangzhou, China<br/>_Topic: Blockchain and Quantitative Trading_ |
 
 
-## 🏆 Honors
-- **[Apr. 2024]** Web3.0 Innovation Competition — *RentChain*, Third Prize in Hong Kong Region  
-- **[Aug. 2021]** China Computer Games Competition — *Connect Six AI*, National Second Prize  
-- **[Sep. 2021]** Mathematical Contest in Modeling — Second Prize, Liaoning Province
+## Education & Visiting
 
-<!--{% include_relative _includes/publications.md %}-->
+| <img src="assets/img/zju.png" width="100"> | **Zhejiang University, China**<br/>Visiting Student in Computer Science<br/> May. 2025 - Sep. 2025 |
+| :---: | :--- |
+| <img src="assets/img/ucas.png" width="100"> | **University of Chinese Academy of Sciences, China**<br/>Master of Science in Computer Technology<br/>Sep. 2023 - Present |
+| <img src="assets/img/sut.png" width="100"> | **Shenyang University of Technology, China**<br/>Bachelor of Engineering in Mathematics and Applied Mathematics<br/>Sep. 2019 - Jun. 2023 |
 
-<!--{% include_relative _includes/services.md %}-->
+
+## Selected Publications · [Full List →](#)
+
+### Preprints
+
+| <img src="assets/img/lie.png" width="120"> | **DeLiVR: Differential Spatiotemporal Lie Bias for Efficient Video Deraining**<br/>**Shuning Sun**, Jialang Lu, Xiang Chen, et al.<br/>_Submitted to ICLR 2026_<br/>[Paper](https://www.arxiv.org/abs/2509.21719) |
+| :---: | :--- |
+
+
+### Conferences
+
+| <img src="assets/img/uniflow.png" width="120"> | **UniFlowRestore: A General Video Restoration Framework via Flow Matching and Prompt Guidance**<br/>**Shuning Sun**, Yu Zhang, Chen Wu, et al.<br/>_Accepted by ACM MM 2026_<br/>[Paper](https://arxiv.org/abs/2504.09069) |
+| :---: | :--- |
+
+
+## Honors & Awards
+
+| [04/2024] Web3.0 Innovation Competition — **RentChain**, Third Prize in Hong Kong Region. |
+| :-------------------- |
+| [08/2021] China Computer Games Competition — **Connect Six AI**, National Second Prize. |
+| [09/2021] Mathematical Contest in Modeling — Second Prize, Liaoning Province. |
+
+
+© Shuning Sun
