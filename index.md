@@ -4,8 +4,7 @@ layout: homepage
 
 ## Biography
 
-Hello! I am a M.S. student at **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**.  
-I obtained my B.E. in Mathematics and Applied Mathematics at **Shenyang University of Technology** in 2023.
+Hello! I am a M.S. student at **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**. I obtained my B.E. in Mathematics and Applied Mathematics at **Shenyang University of Technology** in 2023.
 
 My research interests lie in the intersection of **Computer Vision** and **AICG**.  
 From 2023, I started to do research on image/video restoration.  
