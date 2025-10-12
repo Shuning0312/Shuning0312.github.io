@@ -17,7 +17,7 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ---
 
-## 🔥 News
+## News
 
 - [10/2025] One paper submitted to ICLR 2026!  
 - [09/2025] Two papers submitted to AAAI 2026!  
