@@ -19,9 +19,10 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ## News
 
+- [10/2025] Got National Scholarship for Graduate Students! 🎉 🎉 🎉 
 - [10/2025] One paper submitted to ICLR 2026!  
 - [09/2025] Two papers submitted to AAAI 2026!  
-- [07/2025] One paper accepted by ACM MM 2025!  
+- [07/2025] One paper accepted by ACM MM 2025!
 
 ---
 
@@ -106,7 +107,7 @@ Sep. 2019 - Jun. 2023
 <td>
 <b>DeLiVR: Differential Spatiotemporal Lie Bias for Efficient Video Deraining</b><br>
 <b>Shuning Sun</b>, Jialang Lu, Xiang Chen, et al.<br>
-<i>Submitted to ICLR 2026</i><br>
+<i>Submitted</i><br>
 <a href="https://www.arxiv.org/abs/2509.21719">Paper</a>
 </td>
 </tr>
@@ -132,8 +133,9 @@ Sep. 2019 - Jun. 2023
 
 ## Honors & Awards
 
-| [04/2024] Web3.0 Innovation Competition — **RentChain**, Third Prize in Hong Kong Region. |
+| [10/2025] National Scholarship for Graduate Students.                                     |
 | :---------------------------------------------------------------------------------------- |
+| [04/2024] Web3.0 Innovation Competition — **RentChain**, Third Prize in Hong Kong Region. |
 | [08/2021] China Computer Games Competition — **Connect Six AI**, National Second Prize.   |
 | [09/2021] Mathematical Contest in Modeling — Second Prize, Liaoning Province.             |
 
