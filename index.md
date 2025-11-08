@@ -18,8 +18,8 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ## 🔥 News
 
-- [10/2025] Two papers accepted by AAAI 2026!  
-- [10/2025] Got National Scholarship for Graduate Students! 🎉 🎉 🎉 
+- [10/2025] Two papers accepted by AAAI 2026 🎉 🎉 🎉 
+- [10/2025] Got National Scholarship for Graduate Students 🎉 🎉 🎉 
 - [10/2025] One paper submitted to ICLR 2026!  
 
 ---
@@ -133,7 +133,7 @@ Sep. 2019 - Jun. 2023
 
 <div class="honors">
   <div class="honor-item">
-    <span class="honor-date">[04/2024]</span>
+    <span class="honor-date">[10/2025]</span>
     <span class="honor-text">National Scholarship for Graduate Students.</span>
   </div>
 
