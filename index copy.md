@@ -19,10 +19,9 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ## News
 
+- [10/2025] Two papers accepted by AAAI 2026!  
 - [10/2025] Got National Scholarship for Graduate Students! 🎉 🎉 🎉 
 - [10/2025] One paper submitted to ICLR 2026!  
-- [09/2025] Two papers submitted to AAAI 2026!  
-- [07/2025] One paper accepted by ACM MM 2025!
 
 ---
 

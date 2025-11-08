@@ -69,6 +69,7 @@ A C-language chess engine featuring Expectimax, Monte Carlo Tree Search, and Q-l
 
 
 ## 🏆 Honors
+- **[Apr. 2025]** National Scholarship for Graduate Students
 - **[Apr. 2024]** Web3.0 Innovation Competition — *RentChain*, Third Prize in Hong Kong Region  
 - **[Aug. 2021]** China Computer Games Competition — *Connect Six AI*, National Second Prize  
 - **[Sep. 2021]** Mathematical Contest in Modeling — Second Prize, Liaoning Province
