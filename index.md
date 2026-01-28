@@ -18,9 +18,9 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ## 🔥 News
 
+- [01/2026] One paper accepted by ICLR 2026 🎉 🎉 🎉 
 - [10/2025] Two papers accepted by AAAI 2026 🎉 🎉 🎉 
 - [10/2025] Got National Scholarship for Graduate Students 🎉 🎉 🎉 
-- [10/2025] One paper submitted to ICLR 2026!  
 
 ---
 
@@ -33,7 +33,7 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 </td>
 <td>
 <b>VIVO</b><br>
-Sep. 2025 - Present<br>
+Sep. 2025 - Dec. 2025<br>
 <b>VIVO Imaging Algorithm Research Center</b>, Hangzhou, China<br>
 <i>Topic: Light and Shadow Portrait Large Model Algorithm Research</i>
 </td>
