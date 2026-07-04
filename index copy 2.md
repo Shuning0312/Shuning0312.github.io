@@ -4,10 +4,9 @@ layout: homepage
 
 ## Biography
 
-Hello! I am a M.S. student at **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**.  
-I obtained my B.E. in Mathematics and Applied Mathematics at **Shenyang University of Technology** in 2023.
+Hello! I am a M.S. student at **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**. I obtained my B.E. in Mathematics and Applied Mathematics at **Shenyang University of Technology** in 2023.
 
-My research interests lie in the intersection of **Computer Vision** and **AICG**.  
+My research interests lie in the intersection of **Computer Vision** and **AIGC**.  
 From 2023, I started to do research on image/video restoration.  
 Now, I focus on designing novel applications for image/video restoration and AIGC tasks.
 
@@ -17,11 +16,11 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 
 ---
 
-## News
+## 🔥 News
 
-- [10/2025] Two papers accepted by AAAI 2026!  
-- [10/2025] Got National Scholarship for Graduate Students! 🎉 🎉 🎉 
-- [10/2025] One paper submitted to ICLR 2026!  
+- [01/2026] One paper accepted by ICLR 2026 🎉 🎉 🎉 
+- [10/2025] Two papers accepted by AAAI 2026 🎉 🎉 🎉 
+- [10/2025] Got National Scholarship for Graduate Students 🎉 🎉 🎉 
 
 ---
 
@@ -34,7 +33,7 @@ _📧 Feel free to contact me by email if you are interested in discussing or co
 </td>
 <td>
 <b>VIVO</b><br>
-Sep. 2025 - Present<br>
+Sep. 2025 - Dec. 2025<br>
 <b>VIVO Imaging Algorithm Research Center</b>, Hangzhou, China<br>
 <i>Topic: Light and Shadow Portrait Large Model Algorithm Research</i>
 </td>
@@ -94,7 +93,7 @@ Sep. 2019 - Jun. 2023
 
 ---
 
-## Selected Publications · [Full List →](#)
+## Selected Publications · [<a href="https://scholar.google.com/citations?hl=zh-CN&user=rkxEcnAAAAAJ" target="_blank">Full List →</a>]
 
 ### Preprints
 
@@ -130,14 +129,30 @@ Sep. 2019 - Jun. 2023
 
 ---
 
-## Honors & Awards
+<h2>Honors & Awards</h2>
 
-| [10/2025] National Scholarship for Graduate Students.                                     |
-| :---------------------------------------------------------------------------------------- |
-| [04/2024] Web3.0 Innovation Competition — **RentChain**, Third Prize in Hong Kong Region. |
-| [08/2021] China Computer Games Competition — **Connect Six AI**, National Second Prize.   |
-| [09/2021] Mathematical Contest in Modeling — Second Prize, Liaoning Province.             |
+<div class="honors">
+  <div class="honor-item">
+    <span class="honor-date">[10/2025]</span>
+    <span class="honor-text">National Scholarship for Graduate Students.</span>
+  </div>
 
----
+  <div class="honor-item">
+    <span class="honor-date">[04/2024]</span>
+    <span class="honor-text">Web3.0 Innovation Competition — RentChain, Third Prize in Hong Kong Region.</span>
+  </div>
+
+  <div class="honor-item">
+    <span class="honor-date">[08/2021]</span>
+    <span class="honor-text">China Computer Games Competition — Connect Six AI, National Second Prize.</span>
+  </div>
+
+  <div class="honor-item">
+    <span class="honor-date">[09/2021]</span>
+    <span class="honor-text">Mathematical Contest in Modeling — Second Prize, Liaoning Province.</span>
+  </div>
+</div>
+
+<hr>
 
 © Shuning Sun

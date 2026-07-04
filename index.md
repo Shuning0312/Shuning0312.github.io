@@ -4,15 +4,34 @@ layout: homepage
 
 ## Biography
 
-Hello! I am a M.S. student at **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**. I obtained my B.E. in Mathematics and Applied Mathematics at **Shenyang University of Technology** in 2023.
+Hello! I am a Ph.D. student at **LAMDA Group**, **School of Artificial Intelligence**, **National Key Laboratory for Novel Software Technology**, **Nanjing University**.
 
-My research interests lie in the intersection of **Computer Vision** and **AIGC**.  
-From 2023, I started to do research on image/video restoration.  
-Now, I focus on designing novel applications for image/video restoration and AIGC tasks.
+My research interests focus on **World Models** and **Embodied Intelligence**, with particular interests in reinforcement learning.
 
-I am also passionate about crypto and Web3, having developed several innovative projects in this domain.
+Before that, I received my M.S. degree in Computer Technology from **Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences**, and obtained my B.E. in Mathematics and Applied Mathematics from **Shenyang University of Technology** in 2023.
 
 _📧 Feel free to contact me by email if you are interested in discussing or collaborating with me._
+
+---
+
+## Affiliation
+
+<table>
+<tr>
+<td style="width:100px; text-align:center; vertical-align:middle;">
+<img src="assets/img/RL-logo.jpg" width="100">
+</td>
+<td>
+<b>Ph.D. Student, LAMDA Group</b><br>
+School of Artificial Intelligence<br>
+National Key Laboratory for Novel Software Technology<br>
+Nanjing University, Nanjing 210023, China<br>
+<br>
+<b>Lab:</b> Shaoyifu Building A201, Nanjing University Xianlin Campus
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -59,6 +78,18 @@ Aug. 2023 - Sep. 2025<br>
 <table>
 <tr>
 <td style="width:100px; text-align:center; vertical-align:middle;">
+<img src="assets/img/ntu.jpg" width="100">
+</td>
+<td>
+<b>Nanjing University, China</b><br>
+Ph.D. Student in Artificial Intelligence<br>
+LAMDA Group, LAMDA RL LAB<br>
+Sep. 2026 - Present
+</td>
+</tr>
+
+<tr>
+<td style="width:100px; text-align:center; vertical-align:middle;">
 <img src="assets/img/zju.png" width="100">
 </td>
 <td>
@@ -75,7 +106,7 @@ May. 2025 - Sep. 2025
 <td>
 <b>University of Chinese Academy of Sciences, China</b><br>
 Master of Science in Computer Technology<br>
-Sep. 2023 - Present
+Sep. 2023 - Jun. 2026
 </td>
 </tr>
 
